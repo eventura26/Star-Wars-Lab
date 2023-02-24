@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  background-image: url('https://wallpapersafari.com/downloadres/ZBf0Im/desktop/1280/1024/');
+  background-repeat:repeat;
+  background-size: cover;
+  color: yellow;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.nav-bar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.that-one-div{
+  background-color: rgb(53, 53, 8, .9);
+}
